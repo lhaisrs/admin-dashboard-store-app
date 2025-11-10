@@ -1,6 +1,6 @@
 # Admin Dashboard - Store Challenge
 
-Develop a SPA (Single Page Application) using Angular to manager products, orders using public API [FakeStoreAPI]('https://fakestoreapi.com/') and implement a clean architecture with NgRx and RxJS
+Develop a SPA (Single Page Application) using Angular to manager products, orders using public API [FakeStoreAPI](https://fakestoreapi.com/) and implement a clean architecture with NgRx and RxJS
 
 The goals of the challenge:
 
@@ -48,11 +48,11 @@ Presentation idea:
 
 # References
 
-- [Angular]('https://angular.dev/')
-- [Ngrx]('https://ngrx.io/')
-- [RxJS]('https://rxjs.dev/')
-- [Ngrx-Spinner]('https://www.npmjs.com/package/ngx-spinner')
-- [Redux DevTools]('https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd')
+- [Angular](https://angular.dev/)
+- [Ngrx](https://ngrx.io/)
+- [RxJS](https://rxjs.dev/)
+- [Ngrx-Spinner](https://www.npmjs.com/package/ngx-spinner)
+- [Redux DevTools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 # Before start
 
@@ -82,4 +82,5 @@ npm start
 
 # Good luck!
 We're interesting in know how you think and structure an Angular application. More than a visual look, we would like to see your technical reasoning and architectural decisions.
+
 
